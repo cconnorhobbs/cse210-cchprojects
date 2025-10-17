@@ -10,9 +10,9 @@ public class Fraction
         _bottom = 1;
     }
 
-    public Fraction(int wholeNumber)
+    public Fraction(int number)
     {
-        _top = wholeNumber;
+        _top = number;
         _bottom = 1;
     }
 
